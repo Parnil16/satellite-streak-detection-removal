@@ -1,0 +1,19 @@
+# Datasets and Outputs
+dataset/
+outputs/
+dataset.zip
+raw_images/
+
+# Virtual Environment
+venv/
+env/
+
+# Model Weights
+best_resnet34.pth
+best_unet.pth
+*.pth
+
+# Python Cache
+__pycache__/
+*.pyc
+.env
